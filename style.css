@@ -1,0 +1,66 @@
+h1{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(35, 123, 152);
+    font-size: 50px;
+    font-style: italic;
+}
+
+h2{
+
+    /* padding-left: 100px ; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30;
+
+}
+
+
+button{
+
+    color: #fff;
+    border: none;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(115, 200, 223);
+    font-size: large;
+    border-radius: 10px;
+    margin-top: 50px; 
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+button:hover{
+    background-color: rgb(244, 131, 131);
+    color: black;
+}
+
+div{
+    width: 600px;
+    height: 300px;
+    border: 5px solid rgb(3, 36, 45);
+    padding: 50px;
+    align-items: center;
+    position: absolute;
+    margin-left: 320px;
+
+    
+}
+
+#computer-choice{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+#result {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+#user-choice {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
